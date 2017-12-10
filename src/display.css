@@ -1,0 +1,8 @@
+.Display {
+  text-align: center;
+}
+
+.Display__result {
+  font-size: 4rem;
+  max-width: 4rem;
+}
